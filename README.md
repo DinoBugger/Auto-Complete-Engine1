@@ -1,4 +1,6 @@
-# Auto-Complete-Engine1
+# Tech
+Java: JDK 21
+# About
 **AutoCompleteEngine** is a Java console application that utilizes the **Trie (Prefix Tree)** data structure to provide intelligent prefix-based word suggestions. The project focuses on optimizing search latency and memory scalability.
 
 ## 📌 Project Objectives
